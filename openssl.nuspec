@@ -6,7 +6,7 @@
   <metadata>
     <id>openssl</id>
     <title>OpenSSL (for software developers)</title>
-    <version>1.1.1a</version>
+    <version>1.1.1</version>
     <authors>Shining Light Productions</authors>
     <owners>Alex Willmer, Jesse Sanford</owners>
     <summary>The Open Source SSL and TLS toolkit, with development headers</summary>
