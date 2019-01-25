@@ -6,14 +6,14 @@
   <metadata>
     <id>openssl</id>
     <title>OpenSSL (for software developers)</title>
-    <version>1.0.2.20160504</version>
+    <version>1.1.1a</version>
     <authors>Shining Light Productions</authors>
     <owners>Alex Willmer, Jesse Sanford</owners>
     <summary>The Open Source SSL and TLS toolkit, with development headers</summary>
     <description>The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a full-strength general purpose cryptography library. The project is managed by a worldwide community of volunteers that use the Internet to communicate, plan, and develop the OpenSSL toolkit and its related documentation. This package include the development headers needed to compile software against OpenSSL.
     </description>
     <projectUrl>https://slproweb.com/products/Win32OpenSSL.html</projectUrl>
-    <packageSourceUrl>https://github.com/moreati/openssl-chocolatey</packageSourceUrl>
+    <packageSourceUrl>https://github.com/MrFlutters/openssl-chocolatey</packageSourceUrl>
     <projectSourceUrl>https://www.openssl.org/source/</projectSourceUrl>
     <tags>openssl SSL TLS pfx pem key RSA admin</tags>
     <licenseUrl>https://www.openssl.org/source/license.html</licenseUrl>
