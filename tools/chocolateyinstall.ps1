@@ -9,8 +9,8 @@ $params = @{
   #InnoSetup - http://unattended.sourceforge.net/InnoSetup_Switches_ExitCodes.html
   silentArgs = '/silent', '/verysilent', '/sp-', '/suppressmsgboxes',
     "/DIR=`"$installDir`"";
-  url = 'https://slproweb.com/download/Win32OpenSSL-1_1_1a.exe'
-  url64bit = 'https://slproweb.com/download/Win64OpenSSL-1_1_1a.exe'
+  url = 'https://slproweb.com/download/Win32OpenSSL-1_1_1d.exe'
+  url64bit = 'https://slproweb.com/download/Win64OpenSSL-1_1_1d.exe'
 }
  
 Install-ChocolateyPackage @params
